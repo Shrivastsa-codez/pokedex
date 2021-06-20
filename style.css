@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    text-align: center;
+background: linear-gradient(180deg, rgba(34,193,195,1) 1%, rgba(45,253,121,1) 100%);
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#myCarousel{
+background-color: red;
+} 
+
+#myCarousel img{
+height: 300px;
+margin-top: 35px;
+}
+
+.carousel-inner p{
+margin-bottom: 15px;
+margin-top: 15px;
+color: black;
+font-size: 20px;
+}
